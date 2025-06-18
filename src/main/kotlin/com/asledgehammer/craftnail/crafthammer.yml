@@ -1,0 +1,3 @@
+# Hooks that are invoked by CraftHammer when the server starts and stops.
+hooks:
+  - 'com.asledgehammer.sledgehammer.Sledgehammer'
